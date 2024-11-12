@@ -1,0 +1,33 @@
+Legend: production dependency, optional only, dev only
+
+test-new-skeleton@0.0.1 /Users/ciarankelly/Documents/munch-pass/test-new-skeleton
+
+devDependencies:
+@fontsource/fira-mono 5.1.0
+@neoconfetti/svelte 2.2.1
+@skeletonlabs/skeleton 3.0.0-next.7
+@skeletonlabs/skeleton-svelte 1.0.0-next.12
+@sveltejs/adapter-auto 3.3.1
+@sveltejs/kit 2.7.3
+@sveltejs/vite-plugin-svelte 4.0.0
+@tailwindcss/aspect-ratio 0.4.2
+@tailwindcss/container-queries 0.1.1
+@tailwindcss/forms 0.5.9
+@tailwindcss/typography 0.5.15
+@types/eslint 9.6.1
+@types/node 22.8.6
+autoprefixer 10.4.20
+eslint 9.13.0
+eslint-config-prettier 9.1.0
+eslint-plugin-svelte 2.46.0
+globals 15.11.0
+prettier 3.3.3
+prettier-plugin-svelte 3.2.7
+prettier-plugin-tailwindcss 0.6.8
+svelte 5.1.9
+svelte-check 4.0.5
+tailwindcss 3.4.14
+typescript 5.6.3
+typescript-eslint 8.12.2
+vite 5.4.10
+vitest 2.1.4
